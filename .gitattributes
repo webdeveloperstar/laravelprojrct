@@ -11,3 +11,4 @@ CHANGELOG.md export-ignore
 grk_ecom37.psd filter=lfs diff=lfs merge=lfs -text
 *.lara3 filter=lfs diff=lfs merge=lfs -text
 lara3 filter=lfs diff=lfs merge=lfs -text
+*.grk_ecom37 filter=lfs diff=lfs merge=lfs -text
